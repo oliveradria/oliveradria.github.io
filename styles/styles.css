@@ -1,0 +1,61 @@
+body {
+    font-family: 'Vollkorn', serif;
+    font-size: 1.4rem;
+    line-height: 1.6em;
+}
+
+.brand {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+a.brand {
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 2.0em;
+    line-height: 1.1em;
+}
+
+.light-color {
+    color: #aaaaaa;
+}
+
+.container {
+    max-width: 900px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.small {
+    font-size: 0.75em;
+}
+
+p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+hr {
+    border-bottom: none;
+    border-top: 1px solid #cccccc;
+}
+
+.footer a {
+    margin-right: 5px;
+}
+
+a {
+    color: #751b1a;
+}
+
+a.visited {
+    color: #63383c;
+}
+
+a:hover {
+    color: #9e2700;
+}
+
